@@ -1,1 +1,3 @@
 # Capstone Core PCB
+
+## GNSS
