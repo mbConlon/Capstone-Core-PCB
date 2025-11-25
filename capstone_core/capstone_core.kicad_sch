@@ -3182,7 +3182,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capstone Footprints:CON10_P100X100-RIBBON_TYC"
 			(at 154.94 96.52 0)
 			(effects
 				(font
@@ -3794,7 +3794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capstone Footprints:CON10_P100X100-RIBBON_TYC"
 			(at 69.85 95.25 0)
 			(effects
 				(font
